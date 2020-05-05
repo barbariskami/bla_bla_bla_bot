@@ -1,0 +1,15 @@
+{
+  "games": {
+    "200491": {
+      "token": 200491,
+      "admin_id": 0,
+      "group_id": 0,
+      "players": [],
+      "is started": false,
+      "creation_time": ""
+    }
+  },
+  "tokens in use": [
+    200491
+  ]
+}
